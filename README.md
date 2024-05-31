@@ -1,6 +1,6 @@
 # RyZe Nuker
 
-![Bot Logo](https://cdn.discordapp.com/attachments/1243210350904479744/1245982022103597126/RYZE_NUKER.png?ex=665abaaf&is=6659692f&hm=40b40fd5b18248b13c188ae5ef18d149a31775da31d0ae7661062fb6880732fc&) <!-- You can replace this with your actual logo URL -->
+![Bot Logo](https://cdn.discordapp.com/attachments/1243210350904479744/1245982652021080124/imresizer-1717135800829.jpg?ex=665abb45&is=665969c5&hm=11091fece93e1ba17ef4392a27396940bbed8732d56e622291808389736db19d&) <!-- You can replace this with your actual logo URL -->
 
 ## Table of Contents
 - [About the Project](#about-the-project)
