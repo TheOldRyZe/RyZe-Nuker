@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Support](#support)
 
@@ -44,4 +43,15 @@ To get started with the Fastest Nuke Bot, follow these steps:
 ## Usage
 
 To run the bot, simply execute the exe
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Support
+
+If you need help or have any questions, feel free to join our Discord server for support: [discord.gg/packers](https://discord.gg/packers). Our community and maintainers are there to assist you.
+
+
+
 
