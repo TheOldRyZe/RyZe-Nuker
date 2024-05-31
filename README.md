@@ -1,6 +1,6 @@
 # RyZe Nuker
 
-![Bot Logo](https://via.placeholder.com/150) <!-- You can replace this with your actual logo URL -->
+![Bot Logo]([https://via.placeholder.com/150](https://cdn.discordapp.com/attachments/1243210350904479744/1245982022103597126/RYZE_NUKER.png?ex=665abaaf&is=6659692f&hm=40b40fd5b18248b13c188ae5ef18d149a31775da31d0ae7661062fb6880732fc&)) <!-- You can replace this with your actual logo URL -->
 
 ## Table of Contents
 - [About the Project](#about-the-project)
