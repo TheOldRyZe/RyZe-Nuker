@@ -26,3 +26,22 @@ This is currently the fastest nuke bot available, designed to efficiently manage
 7. Fastest Delete Channels
 8. Buggy Delete Roles [ Will Be Fixing Soon ]
 9. Fastest Webhook Spam
+
+## Installation
+
+To get started with the Fastest Nuke Bot, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/TheOldRyZe/RyZe-Nuker.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd RyZe-Nuker
+    ```
+3. Set up your configuration files as needed.
+
+## Usage
+
+To run the bot, simply execute the exe
+
