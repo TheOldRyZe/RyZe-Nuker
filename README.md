@@ -2,6 +2,10 @@
 
 ![Bot Logo](https://cdn.discordapp.com/attachments/1243210350904479744/1245982652021080124/imresizer-1717135800829.jpg?ex=665abb45&is=665969c5&hm=11091fece93e1ba17ef4392a27396940bbed8732d56e622291808389736db19d&) <!-- You can replace this with your actual logo URL -->
 
+## Note
+
+You Need Good Network Bandwidth For Maximizing The Nuker's Speed
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
