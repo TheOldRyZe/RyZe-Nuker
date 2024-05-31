@@ -28,7 +28,7 @@ This is currently the fastest nuke bot available, designed to efficiently manage
 6. Fastest Role Create
 7. Fastest Delete Channels
 8. Buggy Delete Roles [ Will Be Fixing Soon ]
-9. Fastest Webhook Spam
+9. Broken Webhook Spam [ Will Be Fixing Soon ]
 
 ## Installation
 
